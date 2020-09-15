@@ -1,5 +1,6 @@
 # machine-assisted-decision-making-RT-for-HNC
-Code used in data analysis my thesis titled: Machine Assisted Decision Making in Radiotherapy for Head and Neck Cancer
+Code used in data analysis for this project titled: Machine Assisted Decision Making in Radiotherapy for Head and Neck Cancer.
+This project has been used as a foundation for a scientific publication. 
 
 # Machine Assisted Decision Making in Radiotherapy for Head and Neck Cancer
 ## Clarise Vigal
