@@ -3,7 +3,7 @@ Code used in data analysis for this project titled: Machine Assisted Decision Ma
 This project has been used as a foundation for a scientific publication. 
 
 # Machine Assisted Decision Making in Radiotherapy for Head and Neck Cancer
-## Clarise Vigal
+## Clarise (Vigal) Stoica
 ### Dr. Wendy Smith, Supervisor
 Department of Physics, University of Calgary
 
